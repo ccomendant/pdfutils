@@ -1,2 +1,2 @@
 # pdfutils
-small shell scripts for miscellaneous PDF-related tasks
+Small shell scripts (from around the Internet) for miscellaneous, PDF-related tasks.
